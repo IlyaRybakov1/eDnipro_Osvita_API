@@ -1,0 +1,5 @@
+OVERPASS_API_URL = "https://overpass-api.de/api/interpreter"
+NOMINATIM_API_URL = "https://nominatim.openstreetmap.org/reverse"
+DEFAULT_LAT = "48.4680221"
+DEFAULT_LNG = "35.0417711"
+DEFAULT_RADIUS = "10000"
